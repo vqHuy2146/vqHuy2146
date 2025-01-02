@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python projects
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on automation.
-- 📫 How to reach me https://www.linkedin.com/notifications/?filter=all
+- 📫 How to reach me [https://www.linkedin.com/notifications/?filter=all](https://www.linkedin.com/in/vu-quang-huy-8284b4329/)
 - 😄 Pronouns: None
 - ⚡ Fun fact: I did over 250 Leetcode.
 
