@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me [https://www.linkedin.com/notifications/?filter=all](https://www.linkedin.com/in/vu-quang-huy-8284b4329/)
 - 😄 Pronouns: None
-- ⚡ Fun fact: I did over 280 Leetcode.
+- ⚡ Fun fact: I did over 285 Leetcode.
 
 <!---
 vqHuy2146/vqHuy2146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
